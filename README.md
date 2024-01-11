@@ -23,4 +23,9 @@ As dependências dos códigos
 6. **Matplotlib (`plt`):**
    - Biblioteca para criação de gráficos.
    - Pode ser instalada usando o comando: `pip install matplotlib`
+   - 
+## Link para baixar o yolov3.weights
 
+O github não aceita arquivos com mais de 100 mb
+
+https://pjreddie.com/media/files/yolov3.weights
